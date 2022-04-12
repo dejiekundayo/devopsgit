@@ -21,4 +21,4 @@ echo "2." "Create a group"
 echo "3." "Create a file"
 echo "4." "Create a folder"
 echo "5." "Create a web server"
-#write a case statement that will perform any action that the user picks
+#write a case statement that will perform any action that the user pick
